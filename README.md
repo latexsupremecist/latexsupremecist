@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello!
+I am a second year Engineering Science student at the University of Toronto. I'm a maths/physics enthusiast, and I (occasionally) work on textbook solutions (during reading week) which can be found in my public repos. 
 
 <!--
 **latexsupremecist/latexsupremecist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
