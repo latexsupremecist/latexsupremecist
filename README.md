@@ -1,6 +1,7 @@
 ### Hello!
 I am a third year Engineering Science student in the Engineering Physics Major at the University of Toronto. I'm a maths/physics enthusiast, and I (occasionally) work on textbook solutions (during reading week) which can be found in my public repos. 
 
+![2T5 EngSci Logo](Engsci2T5EmblemNoOutline.png)
 <!--
 **latexsupremecist/latexsupremecist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
